@@ -1,0 +1,21 @@
+button {
+  border-radius: 3px;
+}
+select {
+  border-radius: 3px;
+  margin: 2px;
+}
+button:hover {
+  background-color: rgb(190, 187, 187);
+  cursor: pointer;
+}
+body {
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+input {
+  border-radius: 3px;
+  margin: 2px;
+}
+div {
+  width: 90%;
+}
